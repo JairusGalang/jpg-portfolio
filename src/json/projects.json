@@ -1,0 +1,100 @@
+[
+    {
+        "title": "CITE Research Repository Mobile App",
+        "description": "Capstone Project: Mobile application for CRR services",
+        "useApiImage": false,
+        "cardWithImage": true,
+        "image": "CRRMobile.jpg",
+        "technologies": [
+            "React Native",
+            "Redux",
+            "Node.js"
+        ],
+        "buttonText": "View Project",
+        "buttonUrl": "/projects/crr-mobile"
+    },
+    {
+        "title": "CITE Research Repository Web Platform",
+        "description": "Capstone Project: Web-based interface for CRR services",
+        "useApiImage": false,
+        "cardWithImage": true,
+        "image": "CRRWeb-MockUp.jpg",
+        "technologies": [
+            "React",
+            "TypeScript",
+            "Express"
+        ],
+        "buttonText": "Explore Demo",
+        "buttonUrl": "/projects/crr-web"
+    },
+    {
+        "title": "EncryptoMail - UI/UX Design",
+        "description": "UI/UX Design: Secure email service with encryption",
+        "useApiImage": false,
+        "cardWithImage": true,
+        "image": "EncryptoMail-Landing-page.jpg",
+        "technologies": [
+            "Vue.js",
+            "Node.js",
+            "Crypto API"
+        ],
+        "buttonText": "Try EncryptoMail",
+        "buttonUrl": "/projects/encrypto-mail"
+    },
+    {
+        "title": "MenTalk - UI/UX Design",
+        "description": "UI/UX Design: A platform for men's mental health discussions",
+        "useApiImage": false,
+        "cardWithImage": true,
+        "image": "MenTalk-Mockup.jpg",
+        "technologies": [
+            "React",
+            "Express",
+            "MongoDB"
+        ],
+        "buttonText": "Join the Conversation",
+        "buttonUrl": "/projects/mentalk"
+    },
+    {
+        "title": "Moule Wallet - UI/UX Design",
+        "description": "UI/UX Design: Secure cryptocurrency wallet application",
+        "useApiImage": false,
+        "cardWithImage": true,
+        "image": "MouleWalletCryptoWallet.jpg",
+        "technologies": [
+            "React Native",
+            "Blockchain API",
+            "Redux"
+        ],
+        "buttonText": "Download Wallet",
+        "buttonUrl": "/projects/moule-wallet"
+    },
+    {
+        "title": "NFT Museum - UI/UX Design",
+        "description": "UI/UX Design: Virtual museum for NFT artwork showcase",
+        "useApiImage": false,
+        "cardWithImage": true,
+        "image": "NFT-Museum-Mockup.jpg",
+        "technologies": [
+            "Three.js",
+            "Web3.js",
+            "Node.js"
+        ],
+        "buttonText": "Enter Museum",
+        "buttonUrl": "/projects/nft-museum"
+    },
+    {
+        "title": "RelayCloud - UI/UX Design",
+        "description": "UI/UX Design: Cloud-based relay and automation platform",
+        "useApiImage": false,
+        "cardWithImage": true,
+        "image": "RelayCloud_UIUX.jpg",
+        "technologies": [
+            "Angular",
+            "Python",
+            "Docker"
+        ],
+        "buttonText": "Start Free Trial",
+        "buttonUrl": "/projects/relay-cloud"
+    }
+]

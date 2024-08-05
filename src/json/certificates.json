@@ -1,0 +1,220 @@
+[
+  {
+    "title": "BagoSphere Certificate",
+    "description": "Certificate from BagoSphere",
+    "useApiImage": false,
+    "cardWithImage": true,
+    
+    "image": "BagoSphere_Galang.jpg",
+    "technologies": [
+      "BagoSphere"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/bagosphere"
+  },
+  {
+    "title": "Coding Certificate",
+    "description": "Certificate for Coding",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "CODING.jpg",
+    "technologies": [
+      "Coding"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/coding"
+  },
+  {
+    "title": "Dean's Lister - First Year",
+    "description": "Certificate for Dean's Lister in First Year",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "DeansLister-FirstYear.jpg",
+    "technologies": [
+      "Academic Achievement"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/deans-lister"
+  },
+  {
+    "title": "DSC Firebase in Action",
+    "description": "Certificate for DSC Firebase in Action",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "DSC-FIREBASE-IN-ACTION.jpg",
+    "technologies": [
+      "Firebase"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/dsc-firebase"
+  },
+  {
+    "title": "DSC UPang Certificate",
+    "description": "Certificate from DSC UPang",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "DSCUPANG-CERTIFICATE.jpg",
+    "technologies": [
+      "DSC"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/dsc-upang"
+  },
+  {
+    "title": "DSC UPang",
+    "description": "Certificate for DSC UPang",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "DSCUPang.jpg",
+    "technologies": [
+      "DSC"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/dsc-upang-2"
+  },
+  {
+    "title": "GDG PH 2020 Certificate",
+    "description": "Certificate for GDG PH 2020",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "GDGPH2020Certificate-1.jpg",
+    "technologies": [
+      "GDG"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/gdg-ph-2020"
+  },
+  {
+    "title": "GDSC Core Team Member",
+    "description": "Certificate for GDSC Core Team Member",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "GDSC-CORE-TEAM-MEMBER.jpg",
+    "technologies": [
+      "GDSC"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/gdsc-core-team"
+  },
+  {
+    "title": "Internship Certificate",
+    "description": "Certificate for Internship",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "Internship-GalangJairus.jpg",
+    "technologies": [
+      "Internship"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/internship"
+  },
+  {
+    "title": "Intro to DSC",
+    "description": "Certificate for Intro to DSC",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "Intro-to-Dsc_Galang.jpg",
+    "technologies": [
+      "DSC"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/intro-to-dsc"
+  },
+  {
+    "title": "Intro to Fetch",
+    "description": "Certificate for Intro to Fetch",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "Intro-to-Fetch-Galang.jpg",
+    "technologies": [
+      "Fetch API"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/intro-to-fetch"
+  },
+  {
+    "title": "Intro to Photography",
+    "description": "Certificate for Intro to Photography",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "Intro-to-Photography.jpg",
+    "technologies": [
+      "Photography"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/intro-to-photography"
+  },
+  {
+    "title": "MS Project Certificate",
+    "description": "Certificate for MS Project",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "MS-Project_Galang.jpg",
+    "technologies": [
+      "MS Project"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/ms-project"
+  },
+  {
+    "title": "PAW 2020 Certificate",
+    "description": "Certificate for PAW 2020",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "PAW2020_Galang.jpg",
+    "technologies": [
+      "PAW"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/paw-2020"
+  },
+  {
+    "title": "Seminar Certificate",
+    "description": "Certificate for Seminar",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "SEMINAR.jpg",
+    "technologies": [
+      "Seminar"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/seminar"
+  },
+  {
+    "title": "Success Ladder 2021",
+    "description": "Certificate for Success Ladder 2021",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "SUCCESS-LADDER-2021.jpg",
+    "technologies": [
+      "Success Ladder"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/success-ladder-2021"
+  },
+  {
+    "title": "Useful Tools Certificate",
+    "description": "Certificate for Useful Tools",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "Useful-tools_Galang.jpg",
+    "technologies": [
+      "Tools"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/useful-tools"
+  },
+  {
+    "title": "Kinobi Certificate",
+    "description": "Certificate of Completion from Kinobi",
+    "useApiImage": false,
+    "cardWithImage": true,
+    "image": "KinobiCertGalang.jpg",
+    "technologies": [
+      "Kinobi",
+      "Online Learning"
+    ],
+    "buttonText": "View Certificate",
+    "buttonUrl": "/certificates/kinobi"
+  }
+]

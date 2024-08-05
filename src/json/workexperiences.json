@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Systems Engineer",
+        "responsibilities": "I am Systems Engineer and focuses mainly on Automation Products. However, our roles does not limit with our Automation but also with other products that the company offers.",
+        "company": "First Datacorp",
+        "timeline": "December 2023 - Present",
+        "technologies": [
+            "Microsoft Active Directory",
+            "Control-M",
+            "AutomationEdge",
+            "Automation Products",
+            "CentOS Linux",
+            "Databases",
+            "Firebase Authentication",
+            "Firebase Storage"
+        ]
+    },
+    {
+        "title": "Freelance UI/UX Specialist",
+        "responsibilities": "I am a Freelance UI/UX Specialist and focuses mainly on creating UI/UX Designs for Websites and Mobile Applications. During my Freelance, I have worked with multiple clients and have created multiple UI/UX Designs for their Websites and Mobile Applications. My clients are mostly from Upwork and some of it are external/internal/referral clients",
+        "company": "Freelancing",
+        "timeline": "August 2023 - November 2023",
+        "technologies": [
+            "Figma",
+            "Mockups",
+            "Frameworks",
+            "UI/UX Design"
+        ]
+    },
+    {
+        "title": "Software Developer",
+        "responsibilities": "Created an e-commerce application that focuses on locally based stores in Baguio using Flutter and Dart Language. Also created an Admin Panel that is accessible via Local Host using a React Framework called NextJS. Both the mobile application and the web admin panel are powered by Firebase using its own Firebase Firestore and Firebase Authentication.",
+        "company": "Innovative Media Philippines",
+        "timeline": "November 2022 - April 2023",
+        "technologies": [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "Next.js",
+            "Tailwind CSS",
+            "Firebase Database",
+            "Firebase Authentication",
+            "Firebase Storage"
+        ]
+    },
+    {
+        "title": "Project Based Freelance as UI/UX Designer",
+        "responsibilities": "A friend of mine referred me to this position and we both worked on the same client. He used to create UI Designs and I worked on UX Designs and Workflow of the Application. We managed to finish some products that our client liked and built a good relationship with them.",
+        "company": "Intellizens",
+        "timeline": "December 2021 - December 2022 (Seasonal)",
+        "technologies": [
+            "Figma",
+            "Mockups",
+            "Frameworks",
+            "UI/UX Design"
+        ]
+    },
+    {
+        "title": "Data Engineer Intern",
+        "responsibilities": "During the OJT period, we were assigned to create a dashboard that had been given by the company as our resource to create a visualization of the raw data. We used Google Data Studio for connecting the database and created different kinds of graphs to make the data more readable. With the dashboard, they can now analyze and make better decisions on what to improve and what to learn more.",
+        "company": "SP Madrid and Associates Law Firm",
+        "timeline": "Rendered Hours: 500 Hours",
+        "technologies": [
+            "Automation",
+            "UiPath",
+            "Data Visualization",
+            "Google Data Studio",
+            "Data Dashboard"
+        ]
+    },
+    {
+        "title": "Former Executive Member & Public Information Officer of GDSC - UPang Chapter",
+        "responsibilities": "Attended Webinars, Workshops and Online Events on both Google Developer Students Club Events(Regional) and on our own University Chapter Lead, University of Pangasinan DSC - Chapter.",
+        "company": "Google Developer Students Club",
+        "timeline": "July 2020 - July 2021",
+        "technologies": [
+            "Google Products"
+        ]
+    }
+]
