@@ -1,6 +1,6 @@
 {
   "name": "jpg-portfolio",
-  "private": true,
+  "private": false,
   "homepage":"https://jairusgalang.github.io/jpg-portfolio/", 
   "version": "0.0.0",
   "type": "module",
