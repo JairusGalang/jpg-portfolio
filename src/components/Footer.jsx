@@ -7,16 +7,16 @@ const Footer = () => {
             <div className="container mx-auto flex flex-col sm:flex-row justify-between items-center">
                 <div className="text-center sm:text-left mb-4 sm:mb-0">
                     <p className="font-poppins text-sm text-textBlack">
-                        Made with React+Vite and TailwindCSS
+                        Made with React, Vite and TailwindCSS
                     </p>
                     <p className="font-poppins text-sm text-textBlack">
-                        Made by Me
+                        Made by Jairus Galang
                     </p>
                 </div>
 
                 <div className="text-center mb-4 sm:mb-0">
                     <p className="font-poppins text-sm text-textBlack">
-                        Contact me at: myname@domain.com
+                        Contact me at: work@jairusgalang.com
                     </p>
                 </div>
 
@@ -25,10 +25,10 @@ const Footer = () => {
                         Connect with me thru:
                     </p>
                     <div className="flex justify-center sm:justify-end space-x-4">
-                        <a href="#" className="text-textBlack hover:text-dirtyPink transition-colors">
+                        <a href="https://www.linkedin.com/in/jairusgalang/" target='_blank' className="text-textBlack hover:text-dirtyPink transition-colors">
                             <FaLinkedin size={20} />
                         </a>
-                        <a href="#" className="text-textBlack hover:text-dirtyPink transition-colors">
+                        <a href="https://github.com/JairusGalang" target='_blank' className="text-textBlack hover:text-dirtyPink transition-colors">
                             <FaGithub size={20} />
                         </a>
                     </div>

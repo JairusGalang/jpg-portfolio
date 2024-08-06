@@ -16,18 +16,18 @@ const Home = () => {
                         I am a Flutter Developer and Front-end and Back-end Web Developer.
                     </p>
                     <div className="flex justify-center md:justify-start mb-6 px-4 sm:px-0">
-                        <a href="#" className="flex items-center bg-dirtyPink bg-opacity-50 text-white p-2 rounded-2xl hover:bg-dirtyPink transition-colors">
+                        <a href="https://drive.google.com/file/d/1SMGTbb3OgS10C50tWmsFbMd0aZn_7EZJ/view?usp=sharing" target='_blank' className="flex items-center bg-dirtyPink bg-opacity-50 text-white p-2 rounded-2xl hover:bg-dirtyPink transition-colors">
                             📋<span className="font-poppins font-medium mx-2 text-black text-sm sm:text-base">View Resume</span>
                         </a>
                     </div>
                     <div className="flex flex-wrap justify-center md:justify-start gap-2 px-4 sm:px-0">
-                        <a href="#" className="flex items-center bg-[#0A66C2] text-white p-2 rounded-md hover:bg-[#084d8f] transition-colors">
+                        <a href="https://www.linkedin.com/in/jairusgalang/" target='_blank' className="flex items-center bg-[#0A66C2] text-white p-2 rounded-md hover:bg-[#084d8f] transition-colors">
                             <FaLinkedin size={20} /><span className="font-poppins font-medium mx-2 text-sm sm:text-base">LinkedIn</span>
                         </a>
-                        <a href="#" className="flex items-center bg-[#24292e] text-white p-2 rounded-md hover:bg-[#1b1f23] transition-colors">
+                        <a href="https://github.com/JairusGalang" target='_blank' className="flex items-center bg-[#24292e] text-white p-2 rounded-md hover:bg-[#1b1f23] transition-colors">
                             <FaGithub size={20} /><span className="font-poppins font-medium mx-2 text-sm sm:text-base">GitHub</span>
                         </a>
-                        <a href="#" className="flex items-center bg-[#6FDA44] text-white p-2 rounded-md hover:bg-[#5cc936] transition-colors">
+                        <a href="https://www.upwork.com/freelancers/~01eb3ad0a1989176dc?mp_source=share" target='_blank' className="flex items-center bg-[#6FDA44] text-white p-2 rounded-md hover:bg-[#5cc936] transition-colors">
                             <SiUpwork size={20} /><span className="font-poppins font-medium mx-2 text-sm sm:text-base">Upwork</span>
                         </a>
                     </div>
