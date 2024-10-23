@@ -10,8 +10,11 @@
             "Control-M Workload Automation",
             "AutomationEdge",
             "Automation Products",
-            "CentOS Linux",
-            "Databases"
+            "Linux OS (Ubuntu & CentOS)",
+            "Databases(MySQL, MSSQL, MariaDB)",
+            "Docker",
+            "Kubernetes",
+            "API Integrations (SaaS Products)"
         ]
     },
     {

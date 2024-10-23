@@ -50,7 +50,7 @@ const CardHolder = ({ title, subtitle, image, icons, useApiImage, cardWithImage,
         </div>
       )}
       <div className="flex justify-center mb-4">
-        <Button text={buttonText} url={buttonUrl} />
+        {buttonText && buttonUrl && <Button text={buttonText} url={buttonUrl} />}
       </div>
     </div>
   );

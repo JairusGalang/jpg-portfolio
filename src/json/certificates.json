@@ -4,12 +4,10 @@
     "description": "Certificate from BagoSphere",
     "useApiImage": false,
     "cardWithImage": true,
-    
     "image": "BagoSphere_Galang.jpg",
     "technologies": [
       "BagoSphere"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/bagosphere"
   },
   {
@@ -20,9 +18,7 @@
     "image": "CODING.jpg",
     "technologies": [
       "Coding"
-    ],
-    "buttonText": "View Certificate",
-    "buttonUrl": "/certificates/coding"
+    ]
   },
   {
     "title": "Dean's Lister - First Year",
@@ -33,7 +29,6 @@
     "technologies": [
       "Academic Achievement"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/deans-lister"
   },
   {
@@ -45,7 +40,6 @@
     "technologies": [
       "Firebase"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/dsc-firebase"
   },
   {
@@ -57,7 +51,6 @@
     "technologies": [
       "DSC"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/dsc-upang"
   },
   {
@@ -69,7 +62,6 @@
     "technologies": [
       "DSC"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/dsc-upang-2"
   },
   {
@@ -81,7 +73,6 @@
     "technologies": [
       "GDG"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/gdg-ph-2020"
   },
   {
@@ -93,7 +84,6 @@
     "technologies": [
       "GDSC"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/gdsc-core-team"
   },
   {
@@ -105,7 +95,6 @@
     "technologies": [
       "Internship"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/internship"
   },
   {
@@ -117,7 +106,6 @@
     "technologies": [
       "DSC"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/intro-to-dsc"
   },
   {
@@ -129,7 +117,6 @@
     "technologies": [
       "Fetch API"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/intro-to-fetch"
   },
   {
@@ -141,7 +128,6 @@
     "technologies": [
       "Photography"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/intro-to-photography"
   },
   {
@@ -153,7 +139,6 @@
     "technologies": [
       "MS Project"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/ms-project"
   },
   {
@@ -165,7 +150,6 @@
     "technologies": [
       "PAW"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/paw-2020"
   },
   {
@@ -177,7 +161,6 @@
     "technologies": [
       "Seminar"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/seminar"
   },
   {
@@ -189,7 +172,6 @@
     "technologies": [
       "Success Ladder"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/success-ladder-2021"
   },
   {
@@ -201,7 +183,6 @@
     "technologies": [
       "Tools"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/useful-tools"
   },
   {
@@ -214,7 +195,6 @@
       "Kinobi",
       "Online Learning"
     ],
-    "buttonText": "View Certificate",
     "buttonUrl": "/certificates/kinobi"
   }
 ]

@@ -6,12 +6,11 @@
         "cardWithImage": true,
         "image": "CRRMobile.jpg",
         "technologies": [
-            "React Native",
-            "Redux",
-            "Node.js"
-        ],
-        "buttonText": "View Project",
-        "buttonUrl": "/projects/crr-mobile"
+            "Java",
+            "Android Studio",
+            "Firebase Database",
+            "Firebase Authentication"
+        ]
     },
     {
         "title": "CITE Research Repository Web Platform",
@@ -20,12 +19,13 @@
         "cardWithImage": true,
         "image": "CRRWeb-MockUp.jpg",
         "technologies": [
-            "React",
-            "TypeScript",
-            "Express"
-        ],
-        "buttonText": "Explore Demo",
-        "buttonUrl": "/projects/crr-web"
+            "PHP",
+            "MySQL",
+            "Bootstrap 5",
+            "jQuery",
+            "ajax",
+            "SweetAlert2"
+        ]
     },
     {
         "title": "EncryptoMail - UI/UX Design",
@@ -38,8 +38,8 @@
             "Node.js",
             "Crypto API"
         ],
-        "buttonText": "Try EncryptoMail",
-        "buttonUrl": "/projects/encrypto-mail"
+        "buttonText": "Behance - UI/UX Design",
+        "buttonUrl": "https://www.behance.net/gallery/142348279/EncryptoMail-Landing-Page"
     },
     {
         "title": "MenTalk - UI/UX Design",
@@ -48,12 +48,12 @@
         "cardWithImage": true,
         "image": "MenTalk-Mockup.jpg",
         "technologies": [
-            "React",
-            "Express",
-            "MongoDB"
+            "UI",
+            "UX",
+            "Figma"
         ],
-        "buttonText": "Join the Conversation",
-        "buttonUrl": "/projects/mentalk"
+        "buttonText": "Behance - UI/UX Design",
+        "buttonUrl": "https://www.behance.net/gallery/133792887/MenTalk-Mental-Health-Support-Mobile-App-Design"
     },
     {
         "title": "Moule Wallet - UI/UX Design",
@@ -62,26 +62,12 @@
         "cardWithImage": true,
         "image": "MouleWalletCryptoWallet.jpg",
         "technologies": [
-            "React Native",
-            "Blockchain API",
-            "Redux"
+            "UI",
+            "UX",
+            "Figma"
         ],
-        "buttonText": "Download Wallet",
-        "buttonUrl": "/projects/moule-wallet"
-    },
-    {
-        "title": "NFT Museum - UI/UX Design",
-        "description": "UI/UX Design: Virtual museum for NFT artwork showcase",
-        "useApiImage": false,
-        "cardWithImage": true,
-        "image": "NFT-Museum-Mockup.jpg",
-        "technologies": [
-            "Three.js",
-            "Web3.js",
-            "Node.js"
-        ],
-        "buttonText": "Enter Museum",
-        "buttonUrl": "/projects/nft-museum"
+        "buttonText": "Behance - UI/UX Design",
+        "buttonUrl": "https://www.behance.net/gallery/133681579/MouleWallet-CryptoWallet"
     },
     {
         "title": "RelayCloud - UI/UX Design",
@@ -90,11 +76,11 @@
         "cardWithImage": true,
         "image": "RelayCloud_UIUX.jpg",
         "technologies": [
-            "Angular",
-            "Python",
-            "Docker"
+            "UI",
+            "UX",
+            "Figma"
         ],
-        "buttonText": "Start Free Trial",
-        "buttonUrl": "/projects/relay-cloud"
+        "buttonText": "Behance - UI/UX Design",
+        "buttonUrl": "https://www.behance.net/gallery/151447897/Relay-Cloud-a-privacy-Cloud-Storage"
     }
 ]

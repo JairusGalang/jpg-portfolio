@@ -13,7 +13,9 @@ const Home = () => {
                         </h1>
                     </div>
                     <p className="font-poppins italic text-sm sm:text-base lg:text-lg mb-6 px-4 sm:px-0">
-                        I am a Flutter Developer and Front-end and Back-end Web Developer.
+                        Systems Engineer at  <a href="#" className="font-poppins text-black cursor-pointer hover:text-dirtyPink">
+                            First Datacorp
+                        </a>. Flutter Mobile-Developer and a Front-end/Back-end Developer.
                     </p>
                     <div className="flex justify-center md:justify-start mb-6 px-4 sm:px-0">
                         <a href="https://drive.google.com/file/d/1SMGTbb3OgS10C50tWmsFbMd0aZn_7EZJ/view?usp=sharing" target='_blank' className="flex items-center bg-dirtyPink bg-opacity-50 text-white p-2 rounded-2xl hover:bg-dirtyPink transition-colors">
