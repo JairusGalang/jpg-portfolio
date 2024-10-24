@@ -18,7 +18,7 @@ const Home = () => {
                         </a>. Flutter Mobile-Developer and a Front-end/Back-end Developer.
                     </p>
                     <div className="flex justify-center md:justify-start mb-6 px-4 sm:px-0">
-                        <a href="https://drive.google.com/file/d/1SMGTbb3OgS10C50tWmsFbMd0aZn_7EZJ/view?usp=sharing" target='_blank' className="flex items-center bg-dirtyPink bg-opacity-50 text-white p-2 rounded-2xl hover:bg-dirtyPink transition-colors">
+                        <a href="https://drive.google.com/file/d/1twozs0mwRdV0shl4gY1TqlVAZjlB-5JF/view?usp=sharing" target='_blank' className="flex items-center bg-dirtyPink bg-opacity-50 text-white p-2 rounded-2xl hover:bg-dirtyPink transition-colors">
                             📋<span className="font-poppins font-medium mx-2 text-black text-sm sm:text-base">View Resume</span>
                         </a>
                     </div>
